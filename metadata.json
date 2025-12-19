@@ -1,0 +1,5 @@
+{
+  "name": "CloudLaunch — AI-Native Deployer",
+  "description": "A professional deployment orchestration engine that automates app detection, Dockerfile generation, and Google Cloud Run deployment with an assistive CLI-first experience.",
+  "requestFramePermissions": []
+}
